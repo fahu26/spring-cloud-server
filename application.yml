@@ -1,0 +1,9 @@
+
+my:
+   greeting:  hello World from config server	
+   list:  1,2,3
+
+db:
+   connection: http://google.com/from/config-server
+   host:  google
+   port:  8090
